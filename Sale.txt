@@ -1,0 +1,33 @@
+Sale
+ invoice
+  
+Purchase
+ invoice
+ gst
+ non gst
+ 
+Payment
+ gst
+ non gst
+
+Vendor
+ user name
+ ledger
+  gst
+  non gst
+
+customer 
+ user name 
+  gst
+  non gst
+
+stock transfer
+  gst
+  non gst
+Arkabrata Ghosh
+14:56
+Stock
+Arkabrata Ghosh
+14:57
+in both branches
+entry product
